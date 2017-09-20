@@ -1,0 +1,18 @@
+#IDEA
+.idea/
+*.iml
+
+#java
+*.jar
+*.war
+*.ear
+
+#log
+logs/
+*log*
+
+#maven
+target/
+
+#property files
+config/
